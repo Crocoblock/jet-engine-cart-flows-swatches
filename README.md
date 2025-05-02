@@ -17,6 +17,7 @@ Allows to use CartFlows Variations Swatches inside JetEngine listing with Woo Da
 ## Screenshots
 -  The result: JetEngine listing grid with variations swatches
   <img width="812" alt="image" src="https://github.com/user-attachments/assets/7ce80258-3f47-44ff-a871-3cb2678f5ef8" />
+  
 - Woo Data widget setup
   <img width="698" alt="image" src="https://github.com/user-attachments/assets/55165aad-1860-40fd-961c-d7427c396aef" />
 
