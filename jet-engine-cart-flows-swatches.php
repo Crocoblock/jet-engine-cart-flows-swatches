@@ -28,6 +28,11 @@
 	 * @return array
 	 */
 	public function add_function( $functions = [] ) {
+
+		if ( ! defined( 'CFVSW_VER' ) ) {
+			return $functions;
+		}
+
 		$functions['jet_engine_cf_variation_swatches'] = 'CartFlows Variation Swatches';
 		return $functions;
 	}
