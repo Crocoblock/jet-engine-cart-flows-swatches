@@ -39,7 +39,7 @@
 		}
 
 		$lazy_load  = ! empty( $settings['lazy_load'] ) ? $settings['lazy_load'] : false;
-		$lazy_load  = filter_var( $settings['lazy_load'], FILTER_VALIDATE_BOOLEAN );
+		$lazy_load  = filter_var( $lazy_load, FILTER_VALIDATE_BOOLEAN );
 		$listing_id = ! empty( $settings['lisitng_id'] ) ? absint( $settings['lisitng_id'] ) : 0;
 
 		if ( $lazy_load && $listing_id ) {
