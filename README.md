@@ -2,9 +2,14 @@
 Allows to use CartFlows Variations Swatches inside JetEngine listing with Woo Data widget.
 
 ## Requiremnts
-- JetEngine version 3.7.0+
-- WooCommerce & CartFlows Variations Swatches plugins installed.
-- Listing Wrapper tags must be set to UL > LI, to ensure CartFlows Variations Swatches scripts can work correctly.
+- **JetEngine + CartFlows Variations Swatches** addon itself (download it and install as the usual WP plugin);
+- **JetEngine** version 3.7.0+ plugin installed;
+- **WooCommerce** plugin installed;
+- **CartFlows Variations Swatches** plugin installed;
+- **Listing Wrapper** tags must be set to UL > LI, to ensure CartFlows Variations Swatches scripts can work correctly.
+
+**Please note:**
+If you missed any of these requirements you'll can't complete any of the next steps!
 
 ## How To Use
 - Create JetEngine listing based on the WooCommerce query (https://crocoblock.com/knowledge-base/jetengine/jetengine-query-builder-wc-product-query-type/)
