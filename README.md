@@ -3,9 +3,9 @@ Allows to use CartFlows Variations Swatches inside JetEngine listing with Woo Da
 
 ## Requiremnts
 - **JetEngine + CartFlows Variations Swatches** addon itself (download it and install as the usual WP plugin);
-- **JetEngine** version 3.7.0+ plugin installed;
-- **WooCommerce** plugin installed;
-- **CartFlows Variations Swatches** plugin installed;
+- **JetEngine** version 3.7.0+ plugin installed - https://crocoblock.com/plugins/jetengine/;
+- **WooCommerce** plugin installed - https://wordpress.org/plugins/woocommerce/;
+- **CartFlows Variations Swatches** plugin installed - https://wordpress.org/plugins/variation-swatches-woo/;
 - **Listing Wrapper** tags must be set to UL > LI, to ensure CartFlows Variations Swatches scripts can work correctly.
 
 **Please note:**
